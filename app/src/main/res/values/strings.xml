@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Click</string>
+    <string name="number"><b>0</b></string>
+    <string name="sear"><b>Shear</b></string>
+    <string name="alpaca">alpaca</string>
+    <string name="ull">ull</string>
+    <string name="price1"><b>100</b></string>
+    <string name="price2"><b>500</b></string>
+    <string name="price3"><b>1000</b></string>
+    <string name="price4"><b>5000</b></string>
+    <string name="bonde"><b>Farmer</b></string>
+    <string name="polish"><b>Polish Men</b></string>
+    <string name="rottenikk"><b>Smuggler</b></string>
+    <string name="amount1"><b>0</b></string>
+    <string name="amount2"><b>0</b></string>
+    <string name="amount3"><b>0</b></string>
+    <string name="amount4"><b>0</b></string>
+</resources>
